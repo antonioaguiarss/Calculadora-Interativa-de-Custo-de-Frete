@@ -1,0 +1,17 @@
+﻿modal,tipo_carga,taxa_fixa_brl,taxa_kg_brl,taxa_km_brl,adicional_combustivel_pct,frete_minimo_brl,manuseio_especial_brl
+Rodoviário,Geral,85,0.42,0.95,0.12,180,0.0
+Rodoviário,Frágil,105,0.46,1.02,0.12,220,65.0
+Rodoviário,Refrigerada,145,0.52,1.15,0.15,300,120.0
+Rodoviário,Perigosa,180,0.58,1.2,0.18,380,180.0
+Aéreo,Geral,260,1.85,2.4,0.1,450,0.0
+Aéreo,Frágil,300,1.95,2.55,0.1,520,90.0
+Aéreo,Refrigerada,390,2.15,2.8,0.13,700,160.0
+Aéreo,Perigosa,460,2.35,3.1,0.16,850,250.0
+Marítimo,Geral,210,0.22,0.68,0.14,600,0.0
+Marítimo,Frágil,250,0.25,0.74,0.14,700,75.0
+Marítimo,Refrigerada,340,0.31,0.88,0.17,950,180.0
+Marítimo,Perigosa,420,0.35,0.96,0.2,1200,280.0
+Ferroviário,Geral,160,0.18,0.52,0.11,450,0.0
+Ferroviário,Frágil,195,0.21,0.58,0.11,520,60.0
+Ferroviário,Refrigerada,280,0.26,0.69,0.14,750,145.0
+Ferroviário,Perigosa,360,0.29,0.76,0.17,900,220.0

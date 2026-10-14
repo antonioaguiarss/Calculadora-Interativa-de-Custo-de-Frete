@@ -1,0 +1,2 @@
+﻿modal,tipo_carga,peso_real_kg,volume_m3,peso_cubado_kg,peso_taxavel_kg,distancia_km,taxa_fixa_brl,componente_peso_brl,componente_distancia_brl,subtotal_base_brl,adicional_combustivel_brl,manuseio_especial_brl,seguro_brl,urgencia_brl,pedagios_brl,adicional_manual_brl,ajuste_frete_minimo_brl,subtotal_antes_desconto_brl,desconto_brl,total_estimado_brl
+Rodoviário,Geral,500.0,1.0,200.0,500.0,350.0,85.0,210.0,332.5,627.5,75.3,0.0,3.14,0.0,25.0,0.0,0,730.94,0.0,730.94
