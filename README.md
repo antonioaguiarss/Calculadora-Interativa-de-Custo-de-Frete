@@ -4,7 +4,7 @@ Aplicação web que estima o custo de um frete a partir de uma tabela de regras 
 
 ⚠️ Projeto educacional. Todas as regras, tarifas e cotações são fictícias. Esta ferramenta não substitui uma cotação comercial.
 
-Por que este projeto existe
+Por que este projeto existe?
 
 Estimativas de frete muitas vezes ficam em planilhas com regras espalhadas, e quem recebe o valor final nem sempre sabe como ele foi calculado. Esta calculadora padroniza o cálculo em etapas visíveis e mantém as regras de preço num arquivo separado do código, para que possam ser revisadas e alteradas sem programar.
 
