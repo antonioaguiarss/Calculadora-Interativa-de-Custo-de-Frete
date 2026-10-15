@@ -22,19 +22,19 @@ Subtotal base = taxa fixa + (peso taxável × taxa/kg) + (distância × taxa/km)
 Ao subtotal base são adicionados combustível, manuseio, seguro, urgência, pedágios e adicionais. Aplica-se o frete mínimo; por fim, aplica-se o desconto negociado.
 
 Estrutura
-calculadora_custo_frete_streamlit/
-├── data/
-│   ├── tabela_regras_frete.csv
-│   └── historico_cotacoes_ficticio.csv
-├── docs/
-├── outputs/
-├── src/
-│   ├── app.py
-│   └── frete.py
-├── tests/
-│   └── test_frete.py
-├── requirements.txt
-└── README.md
+  calculadora_custo_frete_streamlit/
+    ├── data/
+    │   ├── tabela_regras_frete.csv
+    │   └── historico_cotacoes_ficticio.csv
+    ├── docs/
+    ├── outputs/
+    ├── src/
+    │   ├── app.py
+    │   └── frete.py
+    ├── tests/
+    │   └── test_frete.py
+    ├── requirements.txt
+    └── README.md
 Como executar localmente
 Requer Python 3.10+.
 
